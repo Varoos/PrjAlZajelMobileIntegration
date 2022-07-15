@@ -1,0 +1,60 @@
+22-12-2021 13:01:22 ErrorList Message for Voucher No '7' data as :- Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 10.0,
+  "TransactionDateTime": "22-12-2021 13:00:48",
+  "Comments": "",
+  "Type": 2
+} - Error: Could not convert string to DateTime: 22-12-2021 13:00:48. Path 'TransactionDateTime'.
+
+22-12-2021 13:01:22 FailedList Message for Voucher No '7'
+
+22-12-2021 13:06:15 ErrorList Message for Voucher No '1' data as :- Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-22",
+  "Comments": "",
+  "Type": 2
+} - Error: Object reference not set to an instance of an object.
+
+22-12-2021 13:06:15 FailedList Message for Voucher No '1'
+
+22-12-2021 13:07:23 ErrorList Message for Voucher No '2' data as :- Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-22",
+  "Comments": "",
+  "Type": 2
+} - Error: Object reference not set to an instance of an object.
+
+22-12-2021 13:07:23 ErrorList Message for Voucher No '2' data as :- Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-22",
+  "Comments": "",
+  "Type": 2
+} - Error: Object reference not set to an instance of an object.
+
+22-12-2021 13:07:23 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+22-12-2021 13:07:23 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+

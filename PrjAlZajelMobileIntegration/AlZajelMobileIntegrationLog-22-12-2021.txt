@@ -1,0 +1,10 @@
+22-12-2021 13:00:28 Posting Method
+
+22-12-2021 13:01:20 Load Request Posted sContent: {"AccessToken":"FOCUS!EZSLR#FocusSoftnet704","ObjectType":"vanStock","ItemList":[{"SourceStockCode":"MAIN WAREHOUSE","DestinationStockCode":"VAN1","ProductId":1,"ProductUnit":"NOS","BatchId":"BATCH1","ExpiryDate":"2021-12-30","Qty":10.0000000,"TransactionDateTime":"22-12-2021 13:00:48","Comments":"","Type":2}]}
+
+22-12-2021 13:05:32 Posting Method
+
+22-12-2021 13:05:56 Load Request Posted sContent: {"AccessToken":"FOCUS!EZSLR#FocusSoftnet334","ObjectType":"vanStock","ItemList":[{"SourceStockCode":"MAIN WAREHOUSE","DestinationStockCode":"VAN1","ProductId":1,"ProductUnit":"NOS","BatchId":"BATCH1","ExpiryDate":"2021-12-30","Qty":10.0000000,"TransactionDateTime":"2021-12-22","Comments":"","Type":2}]}
+
+22-12-2021 13:06:47 Posting Method
+

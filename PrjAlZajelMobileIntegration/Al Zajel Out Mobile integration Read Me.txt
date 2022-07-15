@@ -1,0 +1,9 @@
+﻿Al Zajel Mobile Integration :
+=================================
+
+Stock Transfer Issue - VAN Screen After Save Configuration:
+=========================================================
+On Event      : After Save
+Module Type   : URL
+URL           : /PrjAlZajelMobileIntegration/Scripts/StockTransfer.js
+Function Name : AfterSave

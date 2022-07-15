@@ -1,0 +1,135 @@
+21-12-2021 12:41:45 ErrorList Message for Voucher No '4' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 12:39:51",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 12:42:12 FailedList Message for Voucher No '4' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 12:54:14 ErrorList Message for Voucher No '5' data as :- Invalid input data - Item: {
+  "SourceStockCode": 2,
+  "DestinationStockCode": 2,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "XYZ",
+  "ExpiryDate": "2021-12-31",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 12:52:54",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 12:54:14 ErrorList Message for Voucher No '5' data as :- Invalid input data - Item: {
+  "SourceStockCode": 2,
+  "DestinationStockCode": 2,
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 15.0,
+  "TransactionDateTime": "21-12-2021 12:52:54",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 12:54:14 FailedList Message for Voucher No '5'
+
+21-12-2021 12:54:14 FailedList Message for Voucher No '5'
+
+21-12-2021 12:58:14 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": "2021-12-21",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 12:58:13",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 12:58:14 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": "2021-12-21",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 12:58:13",
+  "Comments": "sample",
+  "Type": 2
+}
+
+21-12-2021 12:58:14 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 12:58:14 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 13:03:42 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": "2021-12-21",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 13:01:55",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 13:03:42 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": "2021-12-21",
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 13:01:55",
+  "Comments": "sample",
+  "Type": 2
+}
+
+21-12-2021 13:03:42 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 13:03:42 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 13:06:19 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 13:05:52",
+  "Comments": "",
+  "Type": 2
+}
+
+21-12-2021 13:06:19 ErrorList Message for Voucher No '6' data as :- Invalid input data - Item: {
+  "SourceStockCode": 1,
+  "DestinationStockCode": 1,
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "21-12-2021 13:05:52",
+  "Comments": "demo",
+  "Type": 2
+}
+
+21-12-2021 13:06:19 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+21-12-2021 13:06:19 FailedList Message for Voucher No '6' as :PrjAlZajelMobileIntegration.Models.FailedList
+

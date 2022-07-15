@@ -1,0 +1,302 @@
+23-12-2021 11:29:43 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+}
+
+23-12-2021 11:29:43 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+}
+
+23-12-2021 11:29:43 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 11:29:43 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 11:31:51 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 11:31:51 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 11:31:51 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 11:31:51 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 11:33:04 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 11:33:04 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 11:33:04 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 11:33:04 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 16:16:47 ErrorList Message for Voucher No '1' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+}
+
+23-12-2021 16:16:47 FailedList Message for Voucher No '1'
+
+23-12-2021 16:18:34 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 16:18:34 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 16:21:38 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 16:21:38 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 16:56:58 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 16:56:58 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 16:57:36 ErrorList Message for Voucher No '3' data as :- Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "VAN2",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "XYZ",
+  "ExpiryDate": "2021-12-31",
+  "Qty": 25.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+} - Error: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblStockTransactions_tblProduct". The conflict occurred in database "IDDB_Demo", table "dbo.tblProduct", column 'fldProdID'.
+The statement has been terminated.
+
+23-12-2021 16:57:36 FailedList Message for Voucher No '3'
+
+23-12-2021 17:00:31 ErrorList Message for Voucher No '1' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 1,
+  "ProductUnit": "NOS",
+  "BatchId": "BATCH1",
+  "ExpiryDate": "2021-12-30",
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+}
+
+23-12-2021 17:00:31 FailedList Message for Voucher No '1'
+
+23-12-2021 17:03:53 ErrorList Message for Voucher No '2' data as :- Invalid input data - Item: {
+  "SourceStockCode": "MAIN WAREHOUSE",
+  "DestinationStockCode": "VAN1",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "ABC",
+  "ExpiryDate": null,
+  "Qty": 10.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 17:03:53 FailedList Message for Voucher No '2' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:07:55 ErrorList Message for Voucher No '3' data as :- Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "MAIN WH",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 25.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 2
+} - Error: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblStockTransactions_tblProduct". The conflict occurred in database "IDDB_Demo", table "dbo.tblProduct", column 'fldProdID'.
+The statement has been terminated.
+
+23-12-2021 17:07:55 FailedList Message for Voucher No '3' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:08:56 ErrorList Message for Voucher No '1' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "MAIN WH",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 25.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 17:08:56 FailedList Message for Voucher No '1' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:12:07 ErrorList Message for Voucher No '1' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "MAIN WH",
+  "ProductId": 26,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 25.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 17:12:07 FailedList Message for Voucher No '1' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:30:06 ErrorList Message for Voucher No '20' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "VAN2",
+  "ProductId": 33,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 17:30:06 FailedList Message for Voucher No '20' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:33:02 ErrorList Message for Voucher No '20' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "VAN2",
+  "ProductId": 33,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 17:33:02 FailedList Message for Voucher No '20' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:48:13 ErrorList Message for Voucher No '20' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "VAN2",
+  "ProductId": 33,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 6
+}
+
+23-12-2021 17:48:13 FailedList Message for Voucher No '20' as :PrjAlZajelMobileIntegration.Models.FailedList
+
+23-12-2021 17:50:33 ErrorList Message for Voucher No '19' data as :- Invalid input data - Item: {
+  "SourceStockCode": "VAN1",
+  "DestinationStockCode": "MAIN WH",
+  "ProductId": 33,
+  "ProductUnit": "KG",
+  "BatchId": "OP1",
+  "ExpiryDate": null,
+  "Qty": 5.0,
+  "TransactionDateTime": "2021-12-23",
+  "Comments": "",
+  "Type": 3
+}
+
+23-12-2021 17:50:33 FailedList Message for Voucher No '19' as :PrjAlZajelMobileIntegration.Models.FailedList
+
