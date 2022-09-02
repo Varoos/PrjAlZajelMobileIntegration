@@ -114,7 +114,7 @@ namespace PrjAlZajelMobileIntegration.Controllers
                         clist.ObjectType = "vanStock";
 
                         #region VoucherDetails
-                        string query = $@"select iTransactionId,ouf.sCode [OutletFrom],outt.sCode [OutletTo],iProduct,u.sCode [Productunit] ,sBatchNo,
+                        string query = $@"select iTransactionId,ouf.sCode [OutletFrom],outt.sCode [OutletTo],iProduct,u.sCode [Productunit] ,sBatchNo,iBatchId,
                                             case when b.iExpiryDate=0 then '0' else convert(varchar,dbo.IntToDate(b.iExpiryDate),23) end [ExpiryDate],
                                             abs(fQuantity) Quantity,ISNULL(sNarration,'') Narration,GETDATE() [TransactionDate] from tCore_Header_0 h 
                                             join tCore_Data_0 d on h.iHeaderId=d.iHeaderId
@@ -141,7 +141,7 @@ namespace PrjAlZajelMobileIntegration.Controllers
                             c.DestinationStockCode = Convert.ToString(row["OutletTo"]);
                             c.ProductId = Convert.ToInt32(row["iProduct"]);
                             c.ProductUnit = Convert.ToString(row["Productunit"]);   
-                            c.BatchId = Convert.ToString(row["sBatchNo"]);
+                            c.BatchId = Convert.ToString(row["sBatchNo"])+"*"+ Convert.ToString(row["iBatchId"]);
                             if (Convert.ToString(row["ExpiryDate"]) == "0")
                             {
                                 c.ExpiryDate = null;
@@ -234,7 +234,7 @@ namespace PrjAlZajelMobileIntegration.Controllers
                         clist.ObjectType = "vanStock";
 
                         #region VoucherDetails
-                        string query = String.Format(@"select sVoucherNo,iTransactionId,ouf.sCode [OutletFrom],outt.sCode [OutletTo],iProduct,u.sCode [Productunit] ,sBatchNo,
+                        string query = String.Format(@"select sVoucherNo,iTransactionId,ouf.sCode [OutletFrom],outt.sCode [OutletTo],iProduct,u.sCode [Productunit] ,sBatchNo,iBatchId,
                                                         case when b.iExpiryDate=0 then '0'  else convert(varchar,dbo.IntToDate(b.iExpiryDate),23) end [ExpiryDate],
                                                         abs(fQuantity) Quantity,ISNULL(sNarration,'') Narration,GETDATE() [TransactionDate],
                                                         case when muo.OutletTypeID=0 then 'Warehouse' else 'VAN' end FromOutletType,
@@ -264,7 +264,7 @@ namespace PrjAlZajelMobileIntegration.Controllers
                             c.DestinationStockCode = Convert.ToString(row["OutletTo"]);
                             c.ProductId = Convert.ToInt32(row["iProduct"]);
                             c.ProductUnit = Convert.ToString(row["Productunit"]);
-                            c.BatchId = Convert.ToString(row["sBatchNo"]);
+                            c.BatchId = Convert.ToString(row["sBatchNo"])+"*"+ Convert.ToString(row["iBatchId"]);
                             if (Convert.ToString(row["ExpiryDate"]) == "0")
                             {
                                 c.ExpiryDate = null;
